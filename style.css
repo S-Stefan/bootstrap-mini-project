@@ -6,8 +6,19 @@ nav.navbar {
   margin-top: 4px;
 }
 
-div.banner {
+.home-banner {
+  background-image: url(https://i.redd.it/4froh1ncpeh11.jpg);
+}
+
+.mostar-banner {
   background-image: url(http://i.imgur.com/gFeusxm.jpg);
+}
+
+.trebinje-banner {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/90/Trebinje_River.jpg);
+}
+
+div.banner {
   min-height: 500px;
   background-repeat: no-repeat;
   background-position: center;
@@ -20,6 +31,10 @@ div.banner {
 h3.main-text {
   text-align: center;
   padding: 5%;
+}
+
+a.thumbnail {
+  margin-bottom: 0;
 }
 
 .emb-box {
