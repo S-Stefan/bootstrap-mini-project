@@ -1,0 +1,19 @@
+div.banner {
+  background-image: url(http://i.imgur.com/gFeusxm.jpg);
+  min-height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+
+  color: white;
+  text-align: center;
+}
+
+h3.main-text {
+  text-align: center;
+  padding: 5%;
+}
+
+.map {
+  
+}
