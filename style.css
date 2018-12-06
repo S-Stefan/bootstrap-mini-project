@@ -2,6 +2,10 @@ nav.navbar {
   margin-bottom: 0;
 }
 
+.nav li a {
+  color: black;
+}
+
 .nav-pills {
   margin-top: 4px;
 }
@@ -39,7 +43,11 @@ a.thumbnail {
 
 img.small-img {
   width: 100%;
-  height: 190px;
+  height: 210px;
+}
+
+img.small-img:hover {
+  transform: scale(1.2) rotate(5deg);
 }
 
 .emb-box {
