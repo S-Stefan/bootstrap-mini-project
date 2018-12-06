@@ -37,6 +37,11 @@ a.thumbnail {
   margin-bottom: 0;
 }
 
+img.small-img {
+  width: 100%;
+  height: 190px;
+}
+
 .emb-box {
   height: 400px;
   padding: 15px;
