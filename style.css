@@ -1,5 +1,28 @@
-div.banner {
+nav.navbar {
+  margin-bottom: 0;
+}
+
+.nav li a {
+  color: black;
+}
+
+.nav-pills {
+  margin-top: 4px;
+}
+
+.home-banner {
+  background-image: url(https://i.redd.it/4froh1ncpeh11.jpg);
+}
+
+.mostar-banner {
   background-image: url(http://i.imgur.com/gFeusxm.jpg);
+}
+
+.trebinje-banner {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/90/Trebinje_River.jpg);
+}
+
+div.banner {
   min-height: 500px;
   background-repeat: no-repeat;
   background-position: center;
@@ -14,6 +37,26 @@ h3.main-text {
   padding: 5%;
 }
 
-.map {
-  
+a.thumbnail {
+  margin-bottom: 0;
+}
+
+img.small-img {
+  width: 100%;
+  height: 210px;
+}
+
+img.small-img:hover {
+  transform: scale(1.2) rotate(5deg);
+}
+
+.emb-box {
+  height: 400px;
+  padding: 15px;
+}
+
+iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
