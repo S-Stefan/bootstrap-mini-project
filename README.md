@@ -8,4 +8,4 @@ The website created is a geography themed site which displays images and informa
 
 In order to visit the website please use the link below.
 
-[]()
+[GitHub]( https://s-stefan.github.io/bootstrap-mini-project/)
